@@ -1,4 +1,4 @@
-# Mini-Database-
+# Mini-Database
 Project Overview: Citizen Proposal Management System
 This project implements a comprehensive Database Management System (DBMS) designed for administrative institutions. It digitizes the workflow of citizen proposals, ensuring transparency, data integrity, and a clear audit trail from submission to completion.
 
